@@ -1,2 +1,2 @@
 # SQA-Project
-Development changes are doing by the deveopmet branch
+QA changes are doing by the QA branch
